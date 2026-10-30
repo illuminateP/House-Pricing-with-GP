@@ -1,0 +1,10 @@
+# 대회 데이터
+/hidden/
+/origin/
+
+# Runtime artifacts / 실행 산출물
+/outputs/
+/submission.csv
+viz_records.zip
+__pycache__/
+.ipynb_checkpoints/
